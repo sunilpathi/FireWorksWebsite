@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-family: "Noto Serif", serif;
+}
+.navbar-brand{
+    font-family: "Bungee", sans-serif;
+}
+.nav-link{
+    font-family: "Bungee", sans-serif;
+}
+.nav-link:hover{
+    color: red;
+}
+.Qk{
+    text-decoration:none;
+    color: black;
+}
